@@ -1,0 +1,15 @@
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\bin\Debug\net6.0\Abstraction_In_CSharp.exe
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\bin\Debug\net6.0\Abstraction_In_CSharp.deps.json
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\bin\Debug\net6.0\Abstraction_In_CSharp.runtimeconfig.json
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\bin\Debug\net6.0\Abstraction_In_CSharp.dll
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\bin\Debug\net6.0\Abstraction_In_CSharp.pdb
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\obj\Debug\net6.0\Abstraction_In_CSharp.csproj.AssemblyReference.cache
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\obj\Debug\net6.0\Abstraction_In_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\obj\Debug\net6.0\Abstraction_In_CSharp.AssemblyInfoInputs.cache
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\obj\Debug\net6.0\Abstraction_In_CSharp.AssemblyInfo.cs
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\obj\Debug\net6.0\Abstraction_In_CSharp.csproj.CoreCompileInputs.cache
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\obj\Debug\net6.0\Abstraction_In_CSharp.dll
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\obj\Debug\net6.0\refint\Abstraction_In_CSharp.dll
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\obj\Debug\net6.0\Abstraction_In_CSharp.pdb
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\obj\Debug\net6.0\Abstraction_In_CSharp.genruntimeconfig.cache
+E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\obj\Debug\net6.0\ref\Abstraction_In_CSharp.dll
