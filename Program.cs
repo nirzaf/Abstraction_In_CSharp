@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using Abstraction_In_CSharp;
+﻿using Abstraction_In_CSharp;
 
 MakeCoffeeWithMilk makeCoffeeWithMilk = new ();
 makeCoffeeWithMilk.MakeCoffee();
@@ -13,7 +11,5 @@ ep.PrintInBlackAndWhite("Page 1");
 
 Canon can = new();
 can.Print(" Image ");
-
-
 
 Console.ReadKey();
