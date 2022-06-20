@@ -7,20 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5dbf168-c0c7-4cd1-afb9-1314b6cf847d" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Abstraction_In_CSharp.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Abstraction_In_CSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Abstraction_In_CSharp.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Abstraction_In_CSharp.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net6.0/Abstraction_In_CSharp.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Abstraction_In_CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Abstraction_In_CSharp.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Abstraction_In_CSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Abstraction_In_CSharp.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/Abstraction_In_CSharp.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ref/Abstraction_In_CSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net6.0/refint/Abstraction_In_CSharp.dll" afterDir="false" />
+    <list default="true" id="a5dbf168-c0c7-4cd1-afb9-1314b6cf847d" name="Changes" comment="Console.WriteLine(&quot;Making coffee with milk&quot;);">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Abstraction_In_CSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Abstraction_In_CSharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakeCoffeeWithMilk.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MakeCoffeeWithMilk.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -89,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655641238647</updated>
       <workItem from="1655641241591" duration="2543000" />
+      <workItem from="1655696040057" duration="224000" />
     </task>
     <task id="LOCAL-00001" summary="commit changes">
       <created>1655650149688</created>
@@ -104,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655650164257</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Console.WriteLine(&quot;Making coffee with milk&quot;);">
+      <created>1655696198225</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655696198225</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,25 +127,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="commit changes" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Program.cs</url>
-          <line>9</line>
-          <properties documentPath="E:\Users\Fazrin\RiderProjects\Abstraction_In_CSharp\Program.cs" initialLine="11" containingFunctionPresentation="">
-            <startOffsets>
-              <option value="221" />
-            </startOffsets>
-            <endOffsets>
-              <option value="238" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Console.WriteLine(&quot;Making coffee with milk&quot;);" />
+    <option name="LAST_COMMIT_MESSAGE" value="Console.WriteLine(&quot;Making coffee with milk&quot;);" />
   </component>
 </project>

@@ -2,7 +2,7 @@
 
 public class MakeCoffeeWithMilk : Coffee
 {
-    public  void MakeCoffee()
+    public new static void MakeCoffee()
     {
         Console.WriteLine("Making coffee with milk");
     }

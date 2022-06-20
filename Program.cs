@@ -1,7 +1,7 @@
 ﻿using Abstraction_In_CSharp;
 
 MakeCoffeeWithMilk makeCoffeeWithMilk = new ();
-makeCoffeeWithMilk.MakeCoffee();
+MakeCoffeeWithMilk.MakeCoffee();
 Coffee coffee = new();
 coffee.MakeCoffee();
 
